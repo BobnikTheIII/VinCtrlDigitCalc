@@ -1,0 +1,10 @@
+C:\Users\Grzmichuj\source\repos\KalkulatorVin\KalkulatorVin\bin\Debug\KalkulatorVin.exe.config
+C:\Users\Grzmichuj\source\repos\KalkulatorVin\KalkulatorVin\bin\Debug\KalkulatorVin.exe
+C:\Users\Grzmichuj\source\repos\KalkulatorVin\KalkulatorVin\bin\Debug\KalkulatorVin.pdb
+C:\Users\Grzmichuj\source\repos\KalkulatorVin\KalkulatorVin\obj\Debug\KalkulatorVin.csproj.AssemblyReference.cache
+C:\Users\Grzmichuj\source\repos\KalkulatorVin\KalkulatorVin\obj\Debug\KalkulatorVin.Form1.resources
+C:\Users\Grzmichuj\source\repos\KalkulatorVin\KalkulatorVin\obj\Debug\KalkulatorVin.Properties.Resources.resources
+C:\Users\Grzmichuj\source\repos\KalkulatorVin\KalkulatorVin\obj\Debug\KalkulatorVin.csproj.GenerateResource.cache
+C:\Users\Grzmichuj\source\repos\KalkulatorVin\KalkulatorVin\obj\Debug\KalkulatorVin.csproj.CoreCompileInputs.cache
+C:\Users\Grzmichuj\source\repos\KalkulatorVin\KalkulatorVin\obj\Debug\KalkulatorVin.exe
+C:\Users\Grzmichuj\source\repos\KalkulatorVin\KalkulatorVin\obj\Debug\KalkulatorVin.pdb
